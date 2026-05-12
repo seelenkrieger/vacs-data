@@ -199,11 +199,11 @@
                       },
                       {
                         "label": []
-                      }
+                      },
                       {
                         "label": ["EYKA", "TWR"],
                         "station_id": "EYKA_APP"
-                      },
+                      }
                     ],
                     "rows": 6
                   }
