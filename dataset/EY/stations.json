@@ -39,7 +39,7 @@
     {
       "id": "EYKA_I_APP",
       "parent_id": "EYVL-E",
-      "controlled_by": ["EYKA_APP"]
+      "controlled_by": ["EYKA_TWR"]
     },
     {
       "id": "EYPA_APP",
@@ -49,7 +49,7 @@
     {
       "id": "EYPA_I_APP",
       "parent_id": "EYVL-L",
-      "controlled_by": ["EYPA_APP"]
+      "controlled_by": ["EYPA_TWR"]
     },
     {
       "id": "EYVI_TWR",
